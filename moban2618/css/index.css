@@ -360,7 +360,7 @@ body {
 }
 .banner-info .news {
   width: 466px;
-  height: 290px;
+  height: 445px;
   margin-bottom: 20px;
 }
 .banner-info .news ul {
@@ -590,7 +590,7 @@ body {
 .main-waterfall .main-cont__list {
   position: relative;
   width: 1220px;
-  height: 1630px;
+  height: 1400px;
 }
 .main-waterfall .main-cont__list .item {
   position: relative;
